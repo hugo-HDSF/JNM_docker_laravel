@@ -74,10 +74,25 @@
 
 ## About The Project
 
-![Screen Shot](assets/videos/login_delete_user.gif)
-![Screen Shot](assets/videos/register.gif)
-![Screen Shot](assets/videos/booking_allotment.gif)
-![Screen Shot](assets/videos/add_allotment.gif)
+<table>
+  <tr>
+    <td>
+      <img src="assets/videos/login_delete_user.gif" alt="Login and Delete User">
+    </td>
+    <td>
+      <img src="assets/videos/register.gif" alt="Register">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/videos/booking_allotment.gif" alt="Booking Allotment">
+    </td>
+    <td>
+      <img src="assets/videos/add_allotment.gif" alt="Add Allotment">
+    </td>
+  </tr>
+</table>
+
 
 This App is an event management App for institutional field students and professionals that allows to manage the miage national day event during may 2023 organized by the Nanterre University.
 
